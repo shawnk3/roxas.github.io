@@ -2770,7 +2770,7 @@ html.no-csstransitions .home-content__main {
   cursor: pointer;
   font: 0/0 a;
   text-shadow: none;
-  color: transparent;
+  color: white;
 }
 .testimonials__slider .slick-dots li button:hover,
 .testimonials__slider .slick-dots li button:focus {
@@ -2813,7 +2813,7 @@ html.no-csstransitions .home-content__main {
   font-family: "metropolis-bold", sans-serif;
   font-size: 1.8rem;
   line-height: 1.5;
-  color: #000000;
+  color: #white;
 }
 .testimonials__author span {
   display: block;
